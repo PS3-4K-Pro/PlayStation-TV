@@ -1,9 +1,9 @@
 <div align="center"> 
 
-# PlayStation-TV
+# PlayStation® TV
 Streaming service for PS3™ 4K Pro.
   
 # Credits
-It uses a modded Movian homebrew by @Deank and a modded online tv plugin by @lprot
+PlayStation® TV is based on Movian homebrew by @Deank and the online tv plugin by @lprot
 
 </div>
