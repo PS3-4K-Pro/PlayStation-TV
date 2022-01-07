@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1,DUBLADOS
+m3u:https://playstationtv.000webhostapp.com/animes/animes_dublados.m3u
+
+#EXTINF:-1,LEGENDADOS
+m3u:https://playstationtv.000webhostapp.com/animes/animes_legendados.m3u
