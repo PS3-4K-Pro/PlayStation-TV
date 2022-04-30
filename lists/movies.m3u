@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="AVENTURA" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/aventura.jpg" group-title="CATEGORIAS", AVENTURA
-https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="AÇÃO" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/acao.jpg" group-title="CATEGORIAS", AÇÃO
-https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="FICÇÃO" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/suspense.jpg" group-title="CATEGORIAS", SUSPENSE
-https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/SUSPENSE.m3u
-#EXTINF:-1 tvg-id="" tvg-name="COMÉDIA" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/comedia.jpg" group-title="CATEGORIAS", COMEDIA
-https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CORRIDA" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/corrida.jpg" group-title="CATEGORIAS", CORRIDA
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/acao.jpg" group-title="CATEGORIAS" , ACAO
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/ACAO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/aventura.jpg" group-title="CATEGORIAS" , AVENTURA
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/AVENTURA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/comedia.jpg" group-title="CATEGORIAS" , COMEDIA
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COMEDIA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/corrida.jpg" group-title="CATEGORIAS" , CORRIDA
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/CORRIDA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LUTA" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/luta.jpg" group-title="CATEGORIAS", LUTA
-https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TERROR" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/terror.jpg" group-title="CATEGORIAS", TERROR
-https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="GUERRA" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/guerra.jpg" group-title="CATEGORIAS", GUERRA
-https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ROMANCE" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/romance.jpg" group-title="CATEGORIAS", ROMANCE
-https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="ROMANCE" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/sagas.jpg" group-title="CATEGORIAS", SAGAS COMPLETAS
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/guerra.jpg" group-title="CATEGORIAS" , GUERRA
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/GUERRA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/luta.jpg" group-title="CATEGORIAS" , LUTA
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/LUTA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/romance.jpg" group-title="CATEGORIAS" , ROMANCE
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/ROMANCE.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/suspense.jpg" group-title="CATEGORIAS" , SUSPENSE
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/SUSPENSE.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/terror.jpg" group-title="CATEGORIAS" , TERROR
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/TERROR.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/Interface%20icons/sagas.jpg" group-title="CATEGORIAS" , SAGAS
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/FILMES/COLECAO.m3u
