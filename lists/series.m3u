@@ -50,6 +50,8 @@ https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/SERIE
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/SERIES/LOKI.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Lost" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/Lost.png" group-title="AVENTURA", Lost
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/SERIES/LOST.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Narcos" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/Maquina.Mortifera.png" group-title="ACAO", Maquina Mortifera
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/SERIES/MAQUINA.MORTIFERA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Narcos" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/Narcos.png" group-title="ACAO", Narcos
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/SERIES/NARCOS.m3u
 #EXTINF:-1 tvg-id="" tvg-name="NewAmsterdam" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/SERIES/NewAmsterdam.png" group-title="MEDICINA", New Amsterdam
