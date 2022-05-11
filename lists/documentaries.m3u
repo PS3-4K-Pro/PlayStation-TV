@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/FILMES/DOCUMENTARIOS/Brasil.Azul.jpg" group-title="Animais", Brasil Azul
+https://github.com/sandrojr1991/FILMES/releases/download/documentarios/Brasil.Azul.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/FILMES/DOCUMENTARIOS/14.Montanhas.8.Mil.Metros.e.7.Meses.jpg" group-title="Reportagem", 14 Montanhas
 https://github.com/sandrojr1991/FILMES/releases/download/documentarios/14.Montanhas.8.Mil.Metros.e.7.Meses.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/FILMES/DOCUMENTARIOS/20.anos.de.Harry.Potter.jpg" group-title="Reportagem", 20 anos de Harry Potter
@@ -24,8 +26,6 @@ https://github.com/sandrojr1991/FILMES/releases/download/documentarios/Assassina
 https://github.com/sandrojr1991/FILMES/releases/download/documentarios/Atentados.em.Londres.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/FILMES/DOCUMENTARIOS/Atleta.A.jpg" group-title="Reportagem", Atleta A
 https://github.com/sandrojr1991/FILMES/releases/download/documentarios/Atleta.A.mp4
-#EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/FILMES/DOCUMENTARIOS/Brasil.Azul.jpg" group-title="Animais", Brasil Azul
-https://github.com/sandrojr1991/FILMES/releases/download/documentarios/Brasil.Azul.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/FILMES/DOCUMENTARIOS/Caminho.sem.Volta.jpg" group-title="Reportagem", Caminho Sem Volta
 https://github.com/sandrojr1991/FILMES/releases/download/documentarios/Caminho.sem.Volta.mp4
 #EXTINF:-1 tvg-id="" tvg-name="mp4" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/FILMES/DOCUMENTARIOS/Carlos.Ghosn_.O.Ultimo.Voo.jpg" group-title="Reportagem", Carlos Ghosn O Último Voo
