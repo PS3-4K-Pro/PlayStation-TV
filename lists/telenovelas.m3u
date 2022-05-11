@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="Amor a Vida" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/NOVELAS/Amor.a.Vida.jpg" group-title="Novelas Anos 2010-2022", Amor a Vida
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/NOVELAS/AMOR.A.VIDA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="A Usurpadora" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/a-usurpadora.png" group-title="Novelas Anos 1990-1999", A Usurpadora
-https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/NOVELAS/A.USURPADORA.m3u
-
 #EXTINF:-1 tvg-id="" tvg-name="Cabocla" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/cabocla.png" group-title="Novelas Anos 2000-2009", Cabocla
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/NOVELAS/CABOCLA.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="A Usurpadora" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/a-usurpadora.png" group-title="Novelas Anos 1990-1999", A Usurpadora
+https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/NOVELAS/A.USURPADORA.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="A Dona do Pedaco" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/NOVELAS/a-dona-do-pedaco.png" group-title="Novelas Anos 2010-2022", A Dona do Pedaço
 https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/LISTAS/NOVELAS/A.DONA.DO.PEDACO.m3u
