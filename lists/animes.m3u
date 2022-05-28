@@ -1,36 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/dbclassic.png", Dragon Ball: Clássico
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/dbclassic.png", Dragon Ball: Clássico
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/DRAGON.BALL.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/dbz.png", Dragon Ball: Z
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/dbz.png", Dragon Ball: Z
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/DRAGON.BALL.Z.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball SUPER" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/db-super.png", Dragon Ball: Super
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball SUPER" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/db-super.png", Dragon Ball: Super
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/DRAGON.BALL.SUPER.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/dbgt.png", Dragon Ball: GT
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/dbgt.png", Dragon Ball: GT
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/DRAGON.BALL.GT.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/digimon.png", Digimon Adventure
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/digimon.png", Digimon Adventure
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/DIGIMON.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Inuyasha" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/inuyasha.png", Inuyasha
+#EXTINF:-1 tvg-id="" tvg-name="Inuyasha" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/inuyasha.png", Inuyasha
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/INUYASHA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Medabots" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/medabots.png", Medabots
+#EXTINF:-1 tvg-id="" tvg-name="Medabots" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/medabots.png", Medabots
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/MEDABOTS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/Naruto.png", Naruto
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/Naruto.png", Naruto
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/NARUTO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="One Piece" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/one-piece.png", One Piece
+#EXTINF:-1 tvg-id="" tvg-name="One Piece" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/one-piece.png", One Piece
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/ONE.PIECE.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodiaco" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/cdz.png", Os Cavaleiros do Zodiaco
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodiaco" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/cdz.png", Os Cavaleiros do Zodiaco
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/OS.CAVALEIROS.DO.ZODIACO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Alma de Ouro" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/cdz-alma-de-ouro.png", Os Cavaleiros do Zodiaco: Alma de Ouro
+#EXTINF:-1 tvg-id="" tvg-name="Alma de Ouro" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/cdz-alma-de-ouro.png", Os Cavaleiros do Zodiaco: Alma de Ouro
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/CDZ.ALMA.DE.OURO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Saint Seiya The Lost Canvas" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/saintseita-thelostcanvas.png", Os Cavaleiros do Zodíaco: The Lost Canvas - A Saga de Hades
+#EXTINF:-1 tvg-id="" tvg-name="Saint Seiya The Lost Canvas" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/saintseita-thelostcanvas.png", Os Cavaleiros do Zodíaco: The Lost Canvas - A Saga de Hades
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/SAINT.SEIYA.THE.LOST.CANVAS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/pokemon.png", Pokémon
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/pokemon.png", Pokémon
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/POKEMON.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Saint Seiya The Lost Canvas" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/Sailor.Moon.png", Sailor Moon
+#EXTINF:-1 tvg-id="" tvg-name="Saint Seiya The Lost Canvas" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/Sailor.Moon.png", Sailor Moon
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/SAILOR.MOON.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Shurato" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/shurato.png", Shurato
+#EXTINF:-1 tvg-id="" tvg-name="Shurato" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/shurato.png", Shurato
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/SHURATO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Ho!" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/yugiho.png", Yu-Gi-Ho
+#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Ho!" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/yugiho.png", Yu-Gi-Ho
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/YUGIHO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/SANTPLAY/SDSDSD/raw/main/CAPAS/ANIMES/yuyu-hakusho.png", Yu-Yu Hakusho
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/yuyu-hakusho.png", Yu-Yu Hakusho
 https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/YU.YU.YAKUSHO.m3u
