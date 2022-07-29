@@ -3,7 +3,7 @@
 # PlayStation® TV
 Streaming service for PS3™ 4K Pro.
   
-[![Github downloads (by repository)](https://img.shields.io/github/downloads/LuanTeles/PlayStation-TV/total.svg?style=social)](https://github.com/LuanTeles/PlayStation-TV/releases)
+[![Github downloads (by repository)](https://img.shields.io/github/downloads/PS3-4K-Pro/PlayStation-TV/total.svg?style=social)](https://github.com/PS3-4K-Pro/PlayStation-TV/releases)
   
   
 ![image](https://user-images.githubusercontent.com/74815634/148670748-c7821cbd-4f98-451f-8391-de2a60ffc455.png)
