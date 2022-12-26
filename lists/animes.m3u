@@ -1,300 +1,264 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/dbclassic.png", Dragon Ball: Clássico
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/DRAGON.BALL.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/dbz.png", Dragon Ball: Z
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/DRAGON.BALL.Z.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball SUPER" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/db-super.png", Dragon Ball: Super
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/DRAGON.BALL.SUPER.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/dbgt.png", Dragon Ball: GT
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/DRAGON.BALL.GT.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/digimon.png", Digimon Adventure
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/DIGIMON.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Inuyasha" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/inuyasha.png", Inuyasha
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/INUYASHA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Medabots" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/medabots.png", Medabots
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/MEDABOTS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/Naruto.png", Naruto
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/NARUTO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="One Piece" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/one-piece.png", One Piece
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/ONE.PIECE.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodiaco" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/cdz.png", Os Cavaleiros do Zodiaco
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/OS.CAVALEIROS.DO.ZODIACO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Alma de Ouro" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/cdz-alma-de-ouro.png", Os Cavaleiros do Zodiaco: Alma de Ouro
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/CDZ.ALMA.DE.OURO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Saint Seiya The Lost Canvas" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/saintseita-thelostcanvas.png", Os Cavaleiros do Zodíaco: The Lost Canvas - A Saga de Hades
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/SAINT.SEIYA.THE.LOST.CANVAS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/pokemon.png", Pokémon
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/POKEMON.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Saint Seiya The Lost Canvas" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/Sailor.Moon.png", Sailor Moon
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/SAILOR.MOON.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Shurato" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/shurato.png", Shurato
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/SHURATO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Ho!" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/yugiho.png", Yu-Gi-Ho
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/YUGIHO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://raw.githubusercontent.com/sandrojr1991/SandroStorePlay/main/CAPAS/ANIMES/yuyu-hakusho.png", Yu-Yu Hakusho
-https://raw.githubusercontent.com/SANTPLAY/SDSDSD/main/LISTAS/ANIMES/YU.YU.YAKUSHO.m3u
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/AS.AVENTURAS.DE.JACKIE.CHAN.jpg" group-title="JAPONESES", As Aventuras de Jackie Chan
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/AS.AVENTURAS.DE.JACKIE.CHAN.jpg" group-title="Japoneses", As Aventuras de Jackie Chan
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/AS.AVENTURAS.DE.JACKIE.CHAN.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/ASSASSINATION.CLASSROOM.jpg" group-title="JAPONESES", Assassination Classroom
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/ASSASSINATION.CLASSROOM.jpg" group-title="Japoneses", Assassination Classroom
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/ASSASSINATION.CLASSROOM.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/ATTACK.ON.TITAN.jpg" group-title="JAPONESES", Attack on Titan
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/ATTACK.ON.TITAN.jpg" group-title="Japoneses", Attack on Titan
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/ATTACK.ON.TITAN.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/AVATAR.jpg" group-title="JAPONESES", Avatar
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/AVATAR.jpg" group-title="Japoneses", Avatar
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/AVATAR.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/BAKUGAN.jpg" group-title="JAPONESES", Bakugan
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/BAKUGAN.jpg" group-title="Japoneses", Bakugan
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/BAKUGAN.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DEATH.NOTE.jpg" group-title="JAPONESES", Death Note
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DEATH.NOTE.jpg" group-title="Japoneses", Death Note
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/DEATH.NOTE.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/digimon.png" group-title="JAPONESES", Digimon Adventure
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/digimon.png" group-title="Japoneses", Digimon Adventure
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/DIGIMON.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DR.STONE.jpg" group-title="JAPONESES", Dr Stone
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DR.STONE.jpg" group-title="Japoneses", Dr Stone
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/DR.STONE.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/dbclassic.png" group-title="JAPONESES", Dragon Ball
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/dbclassic.png" group-title="Japoneses", Dragon Ball
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/DRAGON.BALL.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/dbz.png" group-title="JAPONESES", Dragon Ball Z
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/dbz.png" group-title="Japoneses", Dragon Ball Z
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/DRAGON.BALL.Z.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/dbgt.png" group-title="JAPONESES", Dragon Ball GT
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/dbgt.png" group-title="Japoneses", Dragon Ball GT
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/DRAGON.BALL.GT.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball SUPER" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/db-super.png" group-title="JAPONESES", Dragon Ball Super
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball SUPER" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/db-super.png" group-title="Japoneses", Dragon Ball Super
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/DRAGON.BALL.SUPER.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SUPER.DRAGON.BALL.HEROES.jpg" group-title="JAPONESES", Dragon Ball Super Heroes
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SUPER.DRAGON.BALL.HEROES.jpg" group-title="Japoneses", Dragon Ball Super Heroes
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SUPER.DRAGON.BALL.HEROES.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DRAGON.QUEST.FLY.jpg" group-title="JAPONESES", Dragon Quest Fly - Pequeno Guerreiro
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DRAGON.QUEST.FLY.jpg" group-title="Japoneses", Dragon Quest Fly - Pequeno Guerreiro
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/DRAGON.QUEST.FLY.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/FAIRY.TAIL.jpg" group-title="JAPONESES", Fairy Tail
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/FAIRY.TAIL.jpg" group-title="Japoneses", Fairy Tail
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/FAIRY.TAIL.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/GINTAMA.jpg" group-title="JAPONESES", Gintama
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/GINTAMA.jpg" group-title="Japoneses", Gintama
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/GINTAMA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HAIKYUU.jpg" group-title="JAPONESES", Haikyuu
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HAIKYUU.jpg" group-title="Japoneses", Haikyuu
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/HAIKYUU.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HELLSING.jpg" group-title="JAPONESES", Helsing
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HELLSING.jpg" group-title="Japoneses", Helsing
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/HELLSING.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HISTORIAS.DE.FANTASMAS.jpg" group-title="JAPONESES", Historias de Fantasmas
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HISTORIAS.DE.FANTASMAS.jpg" group-title="Japoneses", Historias de Fantasmas
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/HISTORIAS.DE.FANTASMAS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HITORIJIME.MY.HERO.jpg" group-title="JAPONESES", Hitorijime My Hero
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HITORIJIME.MY.HERO.jpg" group-title="Japoneses", Hitorijime My Hero
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/HITORIJIME.MY.HERO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HUNTER.X.HUNTER.jpg" group-title="JAPONESES", Hunter x Hunter
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HUNTER.X.HUNTER.jpg" group-title="Japoneses", Hunter x Hunter
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/HUNTER.X.HUNTER.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Inuyasha" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/inuyasha.png" group-title="JAPONESES", Inuyasha
+#EXTINF:-1 tvg-id="" tvg-name="Inuyasha" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/inuyasha.png" group-title="Japoneses", Inuyasha
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/INUYASHA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/JOJO.BIZARRE.ADVENTURE.jpg" group-title="JAPONESES", Jojo Bizarre Adventure
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/JOJO.BIZARRE.ADVENTURE.jpg" group-title="Japoneses", Jojo Bizarre Adventure
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/JOJO.BIZARRE.ADVENTURE.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/KAKEGURUI.jpg" group-title="JAPONESES", Kakegurui
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/KAKEGURUI.jpg" group-title="Japoneses", Kakegurui
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/KAKEGURUI.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/KENGAN.ASHURA.jpg" group-title="JAPONESES", Kengan Ashura
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/KENGAN.ASHURA.jpg" group-title="Japoneses", Kengan Ashura
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/KENGAN.ASHURA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/KIMETSU.NO.YAIBA.jpg" group-title="JAPONESES", Demon Slayer - Kimetsu no Yaiba
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/KIMETSU.NO.YAIBA.jpg" group-title="Japoneses", Demon Slayer - Kimetsu no Yaiba
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/KIMETSU.NO.YAIBA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/KOMI-SAN.WA.COMYUSHOU.jpg" group-title="JAPONESES", Komi-San wa Comyushou Desu
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/KOMI-SAN.WA.COMYUSHOU.jpg" group-title="Japoneses", Komi-San wa Comyushou Desu
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/KOMI-SAN.WA.COMYUSHOU.DESU.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/KUROKO.NO.BASKET.jpg" group-title="JAPONESES", Kuroko no Basket
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/KUROKO.NO.BASKET.jpg" group-title="Japoneses", Kuroko no Basket
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/KUROKO.NO.BASKET.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/LITTLE.WITCH.ACADEMIA.jpg" group-title="JAPONESES", Little Witch Academy
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/LITTLE.WITCH.ACADEMIA.jpg" group-title="Japoneses", Little Witch Academy
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/LITTLE.WITCH.ACADEMIA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Medabots" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/medabots.png" group-title="JAPONESES", Medabots
+#EXTINF:-1 tvg-id="" tvg-name="Medabots" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/medabots.png" group-title="Japoneses", Medabots
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/MEDABOTS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MEGA.MAN.jpg" group-title="JAPONESES", Mega Man
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MEGA.MAN.jpg" group-title="Japoneses", Mega Man
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/MEGA.MAN.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MONSTER.RANCHER.jpg" group-title="JAPONESES", Monster Rancher
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MONSTER.RANCHER.jpg" group-title="Japoneses", Monster Rancher
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/MONSTER.RANCHER.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/Naruto.png" group-title="JAPONESES", Naruto
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/Naruto.png" group-title="Japoneses", Naruto
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/NARUTO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/NARURO.BORUTO.jpg" group-title="JAPONESES", Boruto Naruto Next Generations
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/NARURO.BORUTO.jpg" group-title="Japoneses", Boruto Naruto Next Generations
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/NARURO.BORUTO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/NARURO.SHIPPUUDEN.jpg" group-title="JAPONESES", Naruto Shippuusen
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/NARURO.SHIPPUUDEN.jpg" group-title="Japoneses", Naruto Shippuusen
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/NARURO.SHIPPUUDEN.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/NEON.GENESIS.EVANGELION.jpg" group-title="JAPONESES", Neon Genesis Evangelion
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/NEON.GENESIS.EVANGELION.jpg" group-title="Japoneses", Neon Genesis Evangelion
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/NEON.GENESIS.EVANGELION.m3u
-#EXTINF:-1 tvg-id="" tvg-name="One Piece" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/one-piece.png" group-title="JAPONESES", One Piece
+#EXTINF:-1 tvg-id="" tvg-name="One Piece" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/one-piece.png" group-title="Japoneses", One Piece
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/ONE.PIECE.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/ONE.PUNCH.MAN.jpg" group-title="JAPONESES", One Punch Man
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/ONE.PUNCH.MAN.jpg" group-title="Japoneses", One Punch Man
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/ONE.PUNCH.MAN.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodiaco" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/cdz.png" group-title="JAPONESES", Os Cavaleiros do Zodiaco
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodiaco" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/cdz.png" group-title="Japoneses", Os Cavaleiros do Zodiaco
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/OS.CAVALEIROS.DO.ZODIACO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Alma de Ouro" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/cdz-alma-de-ouro.png" group-title="JAPONESES", Os Cavaleiros do Zodiaco Alma de Ouro
+#EXTINF:-1 tvg-id="" tvg-name="Alma de Ouro" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/cdz-alma-de-ouro.png" group-title="Japoneses", Os Cavaleiros do Zodiaco Alma de Ouro
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/CDZ.ALMA.DE.OURO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/OS.CAVALEIROS.DO.ZODIACO.OMEGA.jpg" group-title="JAPONESES", Os Cavaleiros do Zodiaco Omega
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/OS.CAVALEIROS.DO.ZODIACO.OMEGA.jpg" group-title="Japoneses", Os Cavaleiros do Zodiaco Omega
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/OS.CAVALEIROS.DO.ZODIACO.OMEGA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Saint Seiya The Lost Canvas" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/saintseita-thelostcanvas.png" group-title="JAPONESES", Os Cavaleiros do Zodiaco The Lost Canvas
+#EXTINF:-1 tvg-id="" tvg-name="Saint Seiya The Lost Canvas" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/saintseita-thelostcanvas.png" group-title="Japoneses", Os Cavaleiros do Zodiaco The Lost Canvas
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SAINT.SEIYA.THE.LOST.CANVAS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/OS.JOVENS.TITANS.jpg" group-title="JAPONESES", Os Jovens Titans
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/OS.JOVENS.TITANS.jpg" group-title="Japoneses", Os Jovens Titans
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/OS.JOVENS.TITANS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/pokemon.png" group-title="JAPONESES", Pokemon
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/pokemon.png" group-title="Japoneses", Pokemon
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/POKEMON.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/RAGNAROK.jpg" group-title="JAPONESES", Raganarok
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/RAGNAROK.jpg" group-title="Japoneses", Raganarok
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/RAGNAROK.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/RANMA.jpg" group-title="JAPONESES", Ranma
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/RANMA.jpg" group-title="Japoneses", Ranma
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/RANMA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/RECORD.OF.RAGNAROK.jpg" group-title="JAPONESES", Record of Ragnarok
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/RECORD.OF.RAGNAROK.jpg" group-title="Japoneses", Record of Ragnarok
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/RECORD.OF.RAGNAROK.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SAKURA.CARD.CAPTOR.jpg" group-title="JAPONESES", Sakura Card Captor
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SAKURA.CARD.CAPTOR.jpg" group-title="Japoneses", Sakura Card Captor
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SAKURA.CARD.CAPTOR.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Saint Seiya The Lost Canvas" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/Sailor.Moon.png" group-title="JAPONESES", Sailor Moon
+#EXTINF:-1 tvg-id="" tvg-name="Saint Seiya The Lost Canvas" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/Sailor.Moon.png" group-title="Japoneses", Sailor Moon
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SAILOR.MOON.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Shurato" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/shurato.png" group-title="JAPONESES", Shurato
+#EXTINF:-1 tvg-id="" tvg-name="Shurato" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/shurato.png" group-title="Japoneses", Shurato
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SHURATO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SUPER.CAMPEOES.jpg" group-title="JAPONESES", Super Campeoes
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SUPER.CAMPEOES.jpg" group-title="Japoneses", Super Campeoes
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SUPER.CAMPEOES.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SUPER.ONZE.jpg" group-title="JAPONESES", Super Onze
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SUPER.ONZE.jpg" group-title="Japoneses", Super Onze
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SUPER.ONZE.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SWORD.ART.ONLINE.jpg" group-title="JAPONESES", Sword art Online
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SWORD.ART.ONLINE.jpg" group-title="Japoneses", Sword art Online
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SWORD.ART.ONLINE.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/THE.SEVEN.DEADLY.SINS.jpg" group-title="JAPONESES", The Seven Deadly Sins
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/THE.SEVEN.DEADLY.SINS.jpg" group-title="Japoneses", The Seven Deadly Sins
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/THE.SEVEN.DEADLY.SINS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TOKYO.REVENGERS.jpg" group-title="JAPONESES", Tokyo Revengs
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TOKYO.REVENGERS.jpg" group-title="Japoneses", Tokyo Revengs
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/TOKYO.REVENGERS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/VANDREAD.jpg" group-title="JAPONESES", Vandread
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/VANDREAD.jpg" group-title="Japoneses", Vandread
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/VANDREAD.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Ho!" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/yugiho.png" group-title="JAPONESES", Yu-Gi-Ho
+#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Ho!" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/yugiho.png" group-title="Japoneses", Yu-Gi-Ho
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/YUGIHO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/yuyu-hakusho.png" group-title="JAPONESES", Yu Yu Hakusho
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/yuyu-hakusho.png" group-title="Japoneses", Yu Yu Hakusho
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/YU.YU.YAKUSHO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/ZATCHBELL.jpg" group-title="JAPONESES", Zatchbell
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/ZATCHBELL.jpg" group-title="Japoneses", Zatchbell
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/ZATCHBELL.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/101.DALMATAS.jpg" group-title="DISNEY", 101 Dalmatas
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/101.DALMATAS.jpg" group-title="Disney", 101 Dalmatas
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/101.DALMATAS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/A.PANTERA.COR.DE.ROSA.jpg" group-title="DIVERSOS", A Pantera Cor de Rosa
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/A.PANTERA.COR.DE.ROSA.jpg" group-title="Diversos", A Pantera Cor de Rosa
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/A.PANTERA.COR.DE.ROSA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/A.PEQUENA.SEREIA.jpg" group-title="DISNEY", A Pequena Sereia
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/A.PEQUENA.SEREIA.jpg" group-title="Disney", A Pequena Sereia
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/A.PEQUENA.SEREIA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/A.TURMA.DO.MANDA.CHUVA.jpg" group-title="CLASSICOS", A Turma do Manda Chuva
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/A.TURMA.DO.MANDA.CHUVA.jpg" group-title="Clássicos", A Turma do Manda Chuva
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/A.TURMA.DO.MANDA.CHUVA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/A.VACA.E.O.FRANGO.jpg" group-title="CARTOONS", A Vaca e o Frango
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/A.VACA.E.O.FRANGO.jpg" group-title="Cartoons", A Vaca e o Frango
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/A.VACA.E.O.FRANGO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/ANIMANIACS.jpg" group-title="WARNER", Animaniacs
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/ANIMANIACS.jpg" group-title="Warner", Animaniacs
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/ANIMANIACS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/AS.AVENTURAS.DE.TINTIN.jpg" group-title="DIVERSOS", As Aventuras de TinTin
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/AS.AVENTURAS.DE.TINTIN.jpg" group-title="Diversos", As Aventuras de TinTin
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/AS.AVENTURAS.DE.TINTIN.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/AS.MENINAS.SUPER.PODEROSAS.jpg" group-title="CARTOONS", As Meninas Super Poderosas
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/AS.MENINAS.SUPER.PODEROSAS.jpg" group-title="Cartoons", As Meninas Super Poderosas
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/AS.MENINAS.SUPER.PODEROSAS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/AS.TERRIVEIS.AVENTURAS.DE.BILLY.E.MANDY.jpg" group-title="CARTOONS", As Aventuras de Billy e Mandy
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/AS.TERRIVEIS.AVENTURAS.DE.BILLY.E.MANDY.jpg" group-title="Cartoons", As Aventuras de Billy e Mandy
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/AS.TERRIVEIS.AVENTURAS.DE.BILLY.E.MANDY.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/ASTRO.BOY.jpg" group-title="DIVERSOS", Astro Boy
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/ASTRO.BOY.jpg" group-title="Diversos", Astro Boy
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/ASTRO.BOY.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/BABY.LONEY.TUNES.jpg" group-title="WARNER", Baby Loney Tunes
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/BABY.LONEY.TUNES.jpg" group-title="Warner", Baby Loney Tunes
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/BABY.LONEY.TUNES.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/BEN.10.jpg" group-title="CARTOONS", Ben 10
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/BEN.10.jpg" group-title="Cartoons", Ben 10
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/BEN.10.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/BOB.ESPONJA.jpg" group-title="CARTOONS", Bob Esponja
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/BOB.ESPONJA.jpg" group-title="Cartoons", Bob Esponja
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/BOB.ESPONJA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/CAPITAO.CAVERNA.jpg" group-title="CLASSICOS", Capitao Caverna
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/CAPITAO.CAVERNA.jpg" group-title="Clássicos", Capitao Caverna
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/CAPITAO.CAVERNA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/CAPITAO.PLANETA.jpg" group-title="CLASSICOS", Capitao Planeta
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/CAPITAO.PLANETA.jpg" group-title="Clássicos", Capitao Planeta
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/CAPITAO.PLANETA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/CAVERNA.DO.DRAGAO.jpg" group-title="CLASSICOS", Caverna do Dragao
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/CAVERNA.DO.DRAGAO.jpg" group-title="Clássicos", Caverna do Dragao
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/CAVERNA.DO.DRAGAO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/CHAVES.ANIMADO.jpg" group-title="DIVERSOS", Chaves Animado
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/CHAVES.ANIMADO.jpg" group-title="Diversos", Chaves Animado
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/CHAVES.ANIMADO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/CORRIDA.MALUCA.jpg" group-title="CLASSICOS", Corrida Maluca
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/CORRIDA.MALUCA.jpg" group-title="Clássicos", Corrida Maluca
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/CORRIDA.MALUCA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/CORAGEM.O.CAO.COVARDE.jpg" group-title="CARTOONS", Coragem o Cao Covarde
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/CORAGEM.O.CAO.COVARDE.jpg" group-title="Cartoons", Coragem o Cao Covarde
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/CORAGEM.O.CAO.COVARDE.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DESENHOS.BIBLICOS.jpg" group-title="DIVERSOS", Desenhos Biblicos
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DESENHOS.BIBLICOS.jpg" group-title="Diversos", Desenhos Biblicos
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/DESENHOS.BIBLICOS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DICK.VIGARISTA.jpg" group-title="CLASSICOS", Dick Vigarista
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DICK.VIGARISTA.jpg" group-title="Clássicos", Dick Vigarista
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/DICK.VIGARISTA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DU.DUDU.E.EDU.jpg" group-title="CARTOONS", Du Dudu e Edu
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DU.DUDU.E.EDU.jpg" group-title="Cartoons", Du Dudu e Edu
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/DU.DUDU.E.EDU.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DUCKTALES.jpg" group-title="DISNEY", Ducktales
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/DUCKTALES.jpg" group-title="Disney", Ducktales
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/DUCKTALES.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/FABULAS.DA.DISNEY.jpg" group-title="DISNEY", Fabulas da Disney
-https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/FABULAS.DA.DISNEY.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/FUTURAMA.jpg" group-title="CARTOONS", Futurama
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/FABULAS.DA.Disney.jpg" group-title="Disney", Fabulas da Disney
+https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/FABULAS.DA.Disney.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/FUTURAMA.jpg" group-title="Cartoons", Futurama
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/FUTURAMA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/GARFIELD.jpg" group-title="CARTOONS", Garfield
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/GARFIELD.jpg" group-title="Cartoons", Garfield
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/GARFIELD.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HE-MAN.jpg" group-title="CLASSICOS", Hen-man
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HE-MAN.jpg" group-title="Clássicos", Hen-man
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/HE-MAN.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HOMEM.ARANHA.jpg" group-title="CLASSICOS", Homem Aranha
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/HOMEM.ARANHA.jpg" group-title="Clássicos", Homem Aranha
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/HOMEM.ARANHA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/JHONNY.BRAVO.jpg" group-title="CARTOONS", Jhonny Bravo
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/JHONNY.BRAVO.jpg" group-title="Cartoons", Jhonny Bravo
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/JHONNY.BRAVO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/JONNY.TEST.jpg" group-title="CARTOONS", Jhonny Test
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/JONNY.TEST.jpg" group-title="Cartoons", Jhonny Test
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/JONNY.TEST.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/JUSTICE.LEAGUE.jpg" group-title="CLASSICOS", Justice League Unlimited
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/JUSTICE.LEAGUE.jpg" group-title="Clássicos", Justice League Unlimited
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/JUSTICE.LEAGUE.UNLIMITED.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/LEAO.DA.MONTANHA.jpg" group-title="CLASSICOS", Leao da Montanha
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/LEAO.DA.MONTANHA.jpg" group-title="Clássicos", Leao da Montanha
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/LEAO.DA.MONTANHA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/LIGEIRINHO.jpg" group-title="WARNER", Ligeirinho
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/LIGEIRINHO.jpg" group-title="Warner", Ligeirinho
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/LIGEIRINHO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/LILO.E.STITCH.jpg" group-title="DISNEY", Lili e Stitch
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/LILO.E.STITCH.jpg" group-title="Disney", Lili e Stitch
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/LILO.E.STITCH.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/LULUZINHA.jpg" group-title="CARTOONS", Luluzinha
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/LULUZINHA.jpg" group-title="Cartoons", Luluzinha
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/LULUZINHA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MAGUILA.O.GORILA.jpg" group-title="CLASSICOS", Maguila o Gorila
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MAGUILA.O.GORILA.jpg" group-title="Clássicos", Maguila o Gorila
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/MAGUILA.O.GORILA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MELHORES.DOS.LOONEY.TUNES.jpg" group-title="WARNER", Melhores dos Looney Tunes
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MELHORES.DOS.LOONEY.TUNES.jpg" group-title="Warner", Melhores dos Looney Tunes
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/MELHORES.DOS.LOONEY.TUNES.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MICKEY.E.DONALD.jpg" group-title="DISNEY", Mickey e Donald
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MICKEY.E.DONALD.jpg" group-title="Disney", Mickey e Donald
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/MICKEY.E.DONALD.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MICKEY.FABRICA.DE.RISOS.png" group-title="DISNEY", Mickey Fabrica de Risos
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MICKEY.FABRICA.DE.RISOS.png" group-title="Disney", Mickey Fabrica de Risos
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/MICKEY.FABRICA.DE.RISOS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MORTAL.KOMBAT.jpg" group-title="DIVERSOS", Mortal Kombat
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MORTAL.KOMBAT.jpg" group-title="Diversos", Mortal Kombat
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/MORTAL.KOMBAT.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MUCHA.LUCHA.jpg" group-title="CARTOONS", Mucha Lucha
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/MUCHA.LUCHA.jpg" group-title="Cartoons", Mucha Lucha
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/MUCHA.LUCHA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/O.FANTASTICO.MUNDO.DE.BOBBY.jpg" group-title="DIVERSOS", O Fantastico Mundo de Boby
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/O.FANTASTICO.MUNDO.DE.BOBBY.jpg" group-title="Diversos", O Fantastico Mundo de Boby
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/O.FANTASTICO.MUNDO.DE.BOBBY.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/O.LABORATORIO.DE.DEXTER.jpg" group-title="CARTOONS", O Laboratorio de Dexter
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/O.LABORATORIO.DE.DEXTER.jpg" group-title="Cartoons", O Laboratorio de Dexter
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/O.LABORATORIO.DE.DEXTER.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/O.MASCARA.jpg" group-title="CARTOONS", O Maskara
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/O.MASCARA.jpg" group-title="Cartoons", O Maskara
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/O.MASCARA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/OS.FLINTSTONES.jpg" group-title="CLASSICOS", Os Flintstones
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/OS.FLINTSTONES.jpg" group-title="Clássicos", Os Flintstones
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/OS.FLINTSTONES.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/OS.JETSONS.jpg" group-title="CLASSICOS", Os Jetsons
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/OS.JETSONS.jpg" group-title="Clássicos", Os Jetsons
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/OS.JETSONS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/OS.PIGUINS.DE.MADAGASCAR.jpg" group-title="CARTOONS", Os Pinguins de Madagascar
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/OS.PIGUINS.DE.MADAGASCAR.jpg" group-title="Cartoons", Os Pinguins de Madagascar
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/OS.PIGUINS.DE.MADAGASCAR.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/OS.SIMPSONS.jpg" group-title="CARTOONS", Os Simpsons
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/OS.SIMPSONS.jpg" group-title="Cartoons", Os Simpsons
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/OS.SIMPSONS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/PADRINHOS.MAGICOS.jpg" group-title="CARTOONS", Padrinhos Magicos
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/PADRINHOS.MAGICOS.jpg" group-title="Cartoons", Padrinhos Magicos
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/PADRINHOS.MAGICOS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/PAPA.LEGUAS.jpg" group-title="WARNER", Papa Leguas e Coite
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/PAPA.LEGUAS.jpg" group-title="Warner", Papa Leguas e Coite
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/PAPA.LEGUAS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/PATO.DONALD.E.SEUS.SOBRINHOS.jpg" group-title="DISNEY", Pato Donald e Seus Sobrinhos
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/PATO.DONALD.E.SEUS.SOBRINHOS.jpg" group-title="Disney", Pato Donald e Seus Sobrinhos
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/PATO.DONALD.E.SEUS.SOBRINHOS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/PICA-PAU.jpg" group-title="CLASSICOS", Pica-Pau
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/PICA-PAU.jpg" group-title="Clássicos", Pica-Pau
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/PICA-PAU.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/PINK.E.CEREBRO.jpg" group-title="CARTOONS", Pink e Cerebro
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/PINK.E.CEREBRO.jpg" group-title="Cartoons", Pink e Cerebro
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/PINK.E.CEREBRO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SAMURAI.JACK.jpg" group-title="CARTOONS", Samurai Jack
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SAMURAI.JACK.jpg" group-title="Cartoons", Samurai Jack
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SAMURAI.JACK.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SCOOBY-DOO.jpg" group-title="CLASSICOS", Scooby-Doo
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SCOOBY-DOO.jpg" group-title="Clássicos", Scooby-Doo
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SCOOBY-DOO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SHE-RA.jpg" group-title="CLASSICOS", She-Ra
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SHE-RA.jpg" group-title="Clássicos", She-Ra
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SHE-RA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SNOOPY.jpg" group-title="CLASSICOS", Snoopy e Charlie Brow
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SNOOPY.jpg" group-title="Clássicos", Snoopy e Charlie Brow
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SNOOPY.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SPEED.RACER.jpg" group-title="DIVERSOS", Speed Racer
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SPEED.RACER.jpg" group-title="Diversos", Speed Racer
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SPEED.RACER.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/STAR.WARS.THE.CLONE.WARS.jpg" group-title="DISNEY", Star Wars The Clone Wars
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/STAR.WARS.THE.CLONE.WARS.jpg" group-title="Disney", Star Wars The Clone Wars
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/STAR.WARS.THE.CLONE.WARS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/STREET.FIGHTHER.VICTORY.jpg" group-title="JAPONESES", Street Fighther Victory
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/STREET.FIGHTHER.VICTORY.jpg" group-title="Japoneses", Street Fighther Victory
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/STREET.FIGHTHER.VICTORY.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TARTARUGAS.NINJA.jpg" group-title="CARTOONS", Tartarugas Ninja
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TARTARUGAS.NINJA.jpg" group-title="Cartoons", Tartarugas Ninja
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/TARTARUGAS.NINJA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TAZ.MANIA.jpg" group-title="WARNER", Taz Mania
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TAZ.MANIA.jpg" group-title="Warner", Taz Mania
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/TAZ.MANIA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SUPER.HOMEM.jpg" group-title="CLASSICOS", Super Man
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/SUPER.HOMEM.jpg" group-title="Clássicos", Super Man
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/SUPER.HOMEM.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/THUNDERCATS.jpg" group-title="CLASSICOS", Thundercats
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/THUNDERCATS.jpg" group-title="Clássicos", Thundercats
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/THUNDERCATS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TICO.E.TECO.jpg" group-title="DISNEY", Tico e Teco
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TICO.E.TECO.jpg" group-title="Disney", Tico e Teco
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/TICO.E.TECO.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TOM.E.JERRY.jpg" group-title="WARNER", Tom e Jerry
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TOM.E.JERRY.jpg" group-title="Warner", Tom e Jerry
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/TOM.E.JERRY.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TRANSFORMERS.jpg" group-title="DIVERSOS", Transformers Animation
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TRANSFORMERS.jpg" group-title="Diversos", Transformers Animation
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/TRANSFORMERS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TRES.ESPIANS.DEMAIS.jpg" group-title="CARTOONS", Tres Espians Demais
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TRES.ESPIANS.DEMAIS.jpg" group-title="Cartoons", Tres Espians Demais
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/TRES.ESPIANS.DEMAIS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TURMA.DA.MONICA.jpg" group-title="DIVERSOS", Turma de Monica
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/TURMA.DA.MONICA.jpg" group-title="Diversos", Turma de Monica
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/TURMA.DA.MONICA.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/URSINHO.POOH.jpg" group-title="DIVERSOS", Ursinho Pooh
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/URSINHO.POOH.jpg" group-title="Diversos", Ursinho Pooh
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/URSINHO.POOH.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/URSINHOS.CARINHOSOS.jpg" group-title="DIVERSOS", Ursinhos Carinhosos
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/URSINHOS.CARINHOSOS.jpg" group-title="Diversos", Ursinhos Carinhosos
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/URSINHOS.CARINHOSOS.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/WOLVERINE.E.OS.X-MEN.jpg" group-title="CARTOONS", Wolverine e os x-men
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://github.com/sandrojr1991/SandroStorePlay/raw/main/CAPAS/ANIMES/WOLVERINE.E.OS.X-MEN.jpg" group-title="Cartoons", Wolverine e os x-men
 https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/LISTAS/ANIMES/WOLVERINE.E.OS.X-MEN.m3u
