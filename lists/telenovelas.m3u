@@ -1,85 +1,97 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Amor a Vida" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/Amor.a.Vida.jpg" group-title="Novelas Anos (2010-2022)" , Amor a Vida
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/AMOR.A.VIDA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Amor a Vida" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/Amor.a.Vida.jpg" group-title="Globo Play" , Amor a Vida
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/AMOR.A.VIDA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="A Usurpadora" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/a-usurpadora.png" group-title="Novelas Anos (1990-1999)" , A Usurpadora
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/A.USURPADORA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="A Usurpadora" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/a.intrusa.jpg" group-title="Televisa" , A Intrusa
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/A.INTRUSA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Cabocla" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/Caminho.das.indias.jpg" group-title="Novelas Anos (2000-2009)" , Caminho das indias
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/CAMINHOS.DAS.INDIAS.m3u
+#EXTINF:-1 tvg-id="" tvg-name="A Usurpadora" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/a-usurpadora.png" group-title="Televisa" , A Usurpadora
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/A.USURPADORA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Cabocla" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/cabocla.png" group-title="Novelas Anos (2000-2009)" , Cabocla
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/CABOCLA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Cabocla" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/Caminho.das.indias.jpg" group-title="Globo Play" , Caminho das indias
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/CAMINHOS.DAS.INDIAS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="A Dona do Pedaco" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/a-dona-do-pedaco.png" group-title="Novelas Anos (2010-2022)" , A Dona do Pedaco
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/A.DONA.DO.PEDACO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Cabocla" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/cabocla.png" group-title="Globo Play" , Cabocla
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/CABOCLA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="A Força do Querer" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/A-forca-do-querer.png" group-title="Novelas Anos (2010-2022)" , A Forca do Querer
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/A.FORCA.DO.QUERER.m3u
+#EXTINF:-1 tvg-id="" tvg-name="A Dona do Pedaco" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/a-dona-do-pedaco.png" group-title="Globo Play" , A Dona do Pedaco
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/A.DONA.DO.PEDACO.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Alem da Usurpadora" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/alem-da-usurpadora.png" group-title="Novelas Anos (1990-1999)" , Alem da Usurpadora
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/ALEM.DA.USURPADORA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="A Força do Querer" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/A-forca-do-querer.png" group-title="Globo Play" , A Forca do Querer
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/A.FORCA.DO.QUERER.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Alma Gêmea" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/alma-gemea.png" group-title="Novelas Anos (2000-2009)" , Alma Gemea
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/ALMA.GEMEA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Alem da Usurpadora" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/alem-da-usurpadora.png" group-title="Televisa" , Alem da Usurpadora
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/ALEM.DA.USURPADORA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Avenida Brasil" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/avenida-brasil.png" group-title="Novelas Anos (2010-2022)" , Avenida Brasil
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/AVENIDA.BRASIL.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Alma Gêmea" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/alma-gemea.png" group-title="Globo Play" , Alma Gemea
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/ALMA.GEMEA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Chocolate com Pimenta" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/chocolate-com-pimenta.png" group-title="Novelas Anos (2000-2009)" , Chocolate com Pimenta
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/CHOCOLATE.COM.PIMENTA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Avenida Brasil" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/avenida-brasil.png" group-title="Globo Play" , Avenida Brasil
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/AVENIDA.BRASIL.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Da Cor do Pecado" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/da-cor-do-pecado.png" group-title="Novelas Anos (2000-2009)" , Da Cor do Pecado
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/DA.COR.DO.PECADO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Chocolate com Pimenta" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/chocolate-com-pimenta.png" group-title="Globo Play" , Chocolate com Pimenta
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/CHOCOLATE.COM.PIMENTA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Haja Coração" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/haja_coracao.png" group-title="Novelas Anos (2010-2022)" , Haja Coracao
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/HAJA.CORACAO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Da Cor do Pecado" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/da-cor-do-pecado.png" group-title="Globo Play" , Da Cor do Pecado
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/DA.COR.DO.PECADO.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Kubanacan" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/kubanacan.png" group-title="Novelas Anos (2000-2009)" , Kubanacan
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/KUBANACAN.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Haja Coração" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/haja_coracao.png" group-title="Globo Play" , Haja Coracao
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/HAJA.CORACAO.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Laços de Família" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/lacos-de-familia.png" group-title="Novelas Anos (2000-2009)" , Lacos de Familia
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/LACOS.DE.FAMILIA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Kubanacan" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/kubanacan.png" group-title="Globo Play" , Kubanacan
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/KUBANACAN.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Maria do Bairro" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/maria-do-bairro.png" group-title="Novelas Anos (1990-1999)" , Maria do Bairro
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/MARIA.DO.BAIRRO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Laços de Família" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/lacos-de-familia.png" group-title="Globo Play" , Lacos de Familia
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/LACOS.DE.FAMILIA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Marimar" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/marimar.png" group-title="Novelas Anos (1990-1999)" , Marimar
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/MARIMAR.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Maria do Bairro" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/maria-do-bairro.png" group-title="Televisa" , Maria do Bairro
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/MARIA.DO.BAIRRO.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="O Beijo do Vampiro" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/o-beijo-do-vampiro.png" group-title="Novelas Anos (2000-2009)" , O Beijo do Vampiro
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/O.BEIJO.DO.VAMPIRO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Marimar" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/marimar.png" group-title="Televisa" , Marimar
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/MARIMAR.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="O Clone" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/o-clone.png" group-title="Novelas Anos (2000-2009)" , O Clone
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/O.CLONE.m3u
+#EXTINF:-1 tvg-id="" tvg-name="O Beijo do Vampiro" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/mulheres-apaixonadas.jpg" group-title="Globo Play" , Mulheres Apaixonadas
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/MULHERES.APAIXONADAS.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="O Cravo e a Rosa" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/o-cravo-e-a-rosa.png" group-title="Novelas Anos (2000-2009)" , O Cravo e a Rosa
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/O.CRAVO.E.A.ROSA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="O Beijo do Vampiro" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/o-beijo-do-vampiro.png" group-title="Globo Play" , O Beijo do Vampiro
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/O.BEIJO.DO.VAMPIRO.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="O Profeta" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/o-profeta.png" group-title="Novelas Anos (2000-2009)" , O Profeta
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/O.PROFETA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="O Clone" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/o-clone.png" group-title="Globo Play" , O Clone
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/O.CLONE.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/o-rei-do-gado.png" group-title="Novelas Anos (1990-1999)" , O Rei do Gado
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/O.REI.DO.GADO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="O Cravo e a Rosa" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/o-cravo-e-a-rosa.png" group-title="Globo Play" , O Cravo e a Rosa
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/O.CRAVO.E.A.ROSA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Porto dos Milagres" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/porto-milagres.png" group-title="Novelas Anos (2000-2009)" , Porto dos Milagres
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/PORTO.DOS.MILAGRES.m3u
+#EXTINF:-1 tvg-id="" tvg-name="O Profeta" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/o-profeta.png" group-title="Globo Play" , O Profeta
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/O.PROFETA.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Porto dos Milagres" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/Prova.De.Amor.png" group-title="Novelas Anos (2000-2009)" , Prova de Amor
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/PROVA.DE.AMOR.m3u
+#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/o-rei-do-gado.png" group-title="Globo Play" , O Rei do Gado
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/O.REI.DO.GADO.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Totalmente Demais" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/Salve.Jorge.jpg" group-title="Novelas Anos (2010-2022)" , Salve Jorge
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/SALVE.JORGE.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Porto dos Milagres" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/patanal.jpg" group-title="Globo Play" , Pantanal
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/PANTANAL.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Totalmente Demais" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/totalmente-demais.png" group-title="Novelas Anos (2010-2022)" , Totalmente Demais
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/TOTALMENTE.DEMAIS.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Porto dos Milagres" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/porto-milagres.png" group-title="Globo Play" , Porto dos Milagres
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/PORTO.DOS.MILAGRES.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Velho Chico" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/velho-chico.png" group-title="Novelas Anos (2010-2022" ,Velho Chico
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/VELHO.CHICO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Porto dos Milagres" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/Prova.De.Amor.png" group-title="Record" , Prova de Amor
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/PROVA.DE.AMOR.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Xica da Silva" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/xica-sa-silva.png" group-title="Novelas Anos (1990-1999)" , Xica da Silva
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/XICA.DA.SILVA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Porto dos Milagres" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/rebelde.jpg" group-title="Televisa" , Rebelde
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/REBELDE.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="Xica da Silva" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/NOVELAS/uga-uga.jpg" group-title="Novelas Anos (2000-2009)" , Uga-Uga
-http://sandrostoreps3.000webhostapp.com/LISTAS/NOVELAS/UGA-UGA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Totalmente Demais" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/Salve.Jorge.jpg" group-title="Globo Play" , Salve Jorge
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/SALVE.JORGE.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="Totalmente Demais" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/totalmente-demais.png" group-title="Globo Play" , Totalmente Demais
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/TOTALMENTE.DEMAIS.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="Velho Chico" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/velho-chico.png" group-title="Globo Play" ,Velho Chico
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/VELHO.CHICO.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="Xica da Silva" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/xica-sa-silva.png" group-title="Globo Play" , Xica da Silva
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/XICA.DA.SILVA.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="Xica da Silva" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/telenovelas/uga-uga.jpg" group-title="Globo Play" , Uga-Uga
+https://raw.github.com/LuanTeles/PlayStation-TV/main/lists/content/telenovelas/UGA-UGA.m3u
